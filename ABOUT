@@ -1,2 +1,1 @@
-This is a JavaScript library meant to allow the creation of JSON databases, while allowing access using SQL.
-This is meant to run atop Node.js, but can be used separately. NodeJSON uses AJAX.
+This is a ECMAScript library meant to allow the creation of databases as JSON objects and query them using standard SQL.
